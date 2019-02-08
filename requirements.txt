@@ -2,7 +2,6 @@ alabaster==0.7.10
 anaconda==0.0.1.1
 applescript==2018.11.19
 appnope==0.1.0
-appscript==1.0.1
 asn1crypto==0.24.0
 astroid==1.6.3
 astropy==2.0.11
