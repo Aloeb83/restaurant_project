@@ -40,7 +40,7 @@ dask==0.17.5
 decorator==4.3.0
 detect==2018.11.19
 distributed==1.21.8
-Django==2.1.1
+Django==1.11.18
 django-crispy-forms==1.7.2
 docutils==0.14
 entrypoints==0.2.3
